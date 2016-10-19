@@ -1,4 +1,4 @@
-package CF_tasks.task_10;
+package CF_tasks.task_96A;
 
 import java.util.Scanner;
 
